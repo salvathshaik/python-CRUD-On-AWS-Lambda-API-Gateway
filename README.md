@@ -1,0 +1,1 @@
+#This project is for Building a CRUD operations using python on Serverless API with AWS Lambda, API Gateway and a DynamoDB from Scratch.
